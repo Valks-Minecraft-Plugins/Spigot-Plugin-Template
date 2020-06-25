@@ -1,4 +1,4 @@
-# %artifactId%
+# Template
 
 <div align="center">
   [![Discord][discord]][discord-url]
